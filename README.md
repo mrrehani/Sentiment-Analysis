@@ -1,6 +1,6 @@
 # Sentiment Analysis
 ![Contributors](https://img.shields.io/badge/Contributors-Michael%20Rehani-brightgreen)
-![Licence](https://img.shields.io/github/license/mrrehani/Sentiment-Analysis)
+![Licence]()
 ![Size](https://img.shields.io/github/repo-size/mrrehani/Sentiment-Analysis)
 <br>
 <a href="https://www.linkedin.com/in/michael-rehani/">
