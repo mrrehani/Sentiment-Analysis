@@ -11,13 +11,14 @@
 In this project, I use Natural Language Processing (NLP) to determine whether restaurant reviews are positive or negative. After the preliminary analysis is completed, the program learns to detect the sentiment of reviews. A confusion matrix is used to visualize its accuracy.
 
 ### Technologies Used:
-- Geopandas
-- Sklearn (Linear Regression)
+- Sklearn (Count Vectorizer, Logistic Regression)
 - Matplotlib
+- Seaborn
+- NLTK 
 
 ### Instructions
 - Clone the repository
-- Open the notebook file, making sure that the Data.zip file is still in the same directory
+- Open the notebook file, making sure that the 'Restaurant_Reviews.csv' file is still in the same directory
 - Run the all the cells
 
 ### Credits
