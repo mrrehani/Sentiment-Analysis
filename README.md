@@ -22,6 +22,6 @@ In this project, I use Natural Language Processing (NLP) to determine whether re
 - Run the all the cells
 
 ### Credits
-The original source of the data can be found [here](https://www.kaggle.com/vigneshwarsofficial/reviews).
+The original source of the data can be found [here](https://www.kaggle.com/vigneshwarsofficial/reviews).<br>
 I recieved help from this [guide](https://towardsdatascience.com/a-beginners-guide-to-sentiment-analysis-in-python-95e354ea84f6).
  
